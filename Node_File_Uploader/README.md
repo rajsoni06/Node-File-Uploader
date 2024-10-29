@@ -1,4 +1,4 @@
-# "Node.js File Uploader API with Express 📁🚀"
+# Node.js File Uploader API with Express 📁🚀
 ---
 A simple and efficient file upload application built with Node.js and Express. This project demonstrates how to create a robust file upload API using Express middleware to handle file streams.
 
