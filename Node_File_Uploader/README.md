@@ -1,52 +1,20 @@
-# "Node.js File Upload API with Express Tutorial"
-
+# "Node.js File Uploader API with Express"
 ---
-
 ### Author Links
 
-👋 Hello, I'm Dave Gray.
+Node.js File Uploader 📁🚀
+A simple and efficient file upload application built with Node.js and Express. This project demonstrates how to create a robust file upload API using Express middleware to handle file streams.
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+✨ Features
+Easy file uploads via a clean, minimalistic web form.
+Node.js & Express.js backend with middleware for efficient file handling.
+Streamlined & scalable upload process.
 
-🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
+🛠️ Tech Stack
+Backend: Node.js, Express.js
+Middleware: Express File Upload
 
-☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
-
-🚀 Follow Me:
-
-- [Twitter](https://twitter.com/yesdavidgray)
-- [LinkedIn](https://www.linkedin.com/in/davidagray/)
-- [Blog](https://yesdavidgray.com)
-- [Reddit](https://www.reddit.com/user/DaveOnEleven)
-
----
-
-### Description
-
-📺 [YouTube Video](https://youtu.be/4pmkQjsKJ-U) for this repository.
-
----
-
-### 🎓 Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
-
----
-
-### 📚 Tutorial References
-
-- 🔗 [NPM express-fileupload](https://www.npmjs.com/package/express-fileupload)
-
-
-### 📚 Node.js & Express References
-
-- 🔗 [Node.js Official site and docs](https://nodejs.org/)
-- 🔗 [Express Official site and docs](https://expressjs.com/)
-- 🔗 [Node Jobs](https://www.ziprecruiter.com/candidate/search?search=node&location=)
-
-### ⚙ VS Code Extensions I Use:
-
-- 🔗 [ES7 React JS Snippets Extension](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-- 🔗 [vscode-icons VS Code Extension](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
-- 🔗 [Github Themes VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
-- 🔗 [Multi Cursor Case Preserve Extension](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
+🚀 Getting Started
+Clone this repo: git clone https://github.com/rajsoni06/Node-File-Uploader
+Install Dependencies: npm install
+Run the Server: node server.js
